@@ -1,2 +1,4 @@
-# fisch-macro-pydev
-fisch macro :33
+# THIS ONLY WORKS FOR MACOS AND IS MADE FOR IT 
+
+
+fisch macros
