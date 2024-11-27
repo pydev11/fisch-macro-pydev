@@ -1,4 +1,5 @@
 import robloxpy
+import pyautogui
 import requests
 import json
 import numpy
